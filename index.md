@@ -82,7 +82,7 @@ _updated on Oct 2020_
 
 ### Huawei Roma
 
-<video width="350" height="315" frameborader="0" allowfullscreen controls>
+<video width="350" height="200" frameborader="0" allowfullscreen controls>
 <source src="http://e-file.huawei.com/mediafiles/Video_MCD/EBG/PUBLIC/en/2020/01/2421def8-962a-4336-a306-e781f5036432.mp4" type="video/mp4">
 </video>
 
