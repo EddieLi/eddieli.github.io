@@ -45,6 +45,7 @@ I have obtained sound knowledge of both technical and collaboration skills over 
 | React   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 3  |
 | Firebase         | ⭐⭐⭐⭐⭐⭐⭐⭐          | 3 |
 | Laravel          | ⭐⭐⭐⭐⭐⭐       | 3  |
+| CodeIgniter          | ⭐⭐⭐⭐⭐⭐       | 3  |
 | Spring Boot         | ⭐⭐⭐⭐⭐⭐         | 3  |
 | Django       | ⭐⭐⭐⭐        | 3  |
 | Ruby on Rails         | ⭐⭐⭐          | 2 |
