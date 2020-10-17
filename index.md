@@ -33,9 +33,9 @@ I have obtained sound knowledge of both technical and collaboration skills over 
 | Javascript   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 8  |
 | Typescript   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 5  |
 | MySQL         | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐          | 5 |
-| Java         | ⭐⭐⭐⭐⭐⭐⭐⭐         | 5  |
 | PHP          | ⭐⭐⭐⭐⭐⭐⭐⭐       | 5  |
-| Python       | ⭐⭐⭐⭐⭐⭐⭐⭐         | 5  |
+| Java         | ⭐⭐⭐⭐⭐⭐⭐⭐         | 3  |
+| Python       | ⭐⭐⭐⭐⭐⭐⭐⭐         | 3  |
 | MongoDB         | ⭐⭐⭐⭐⭐⭐⭐          | 3 |
 | Ruby         | ⭐⭐⭐⭐⭐⭐⭐          | 3 |
 
