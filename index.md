@@ -1,123 +1,123 @@
 ---
 layout: default
 ---
+# About Me
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+I have obtained sound knowledge of both technical and collaboration skills over the last few years of working at multiple startup to enterprise level organizations. Skilled in the use of various programming languagues, databases, automations, frameworks, operations, n-tiered architetures, and cloud offerings.
 
 * * *
 
-### Here is an unordered list:
+## Professional experiences
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+**UI Architect**
+> Huawei - July 2020 to Now
 
-### And an ordered list:
+**Lead Software Developer**
+> IBM - Jan 2015 to July 2020
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**Lead Developer**
+> JMIR Publications - Dec 2013 to Jan 2015
 
-### And a nested list:
+**Lead Developer**
+> Flee (Startup) - July 2012 to Dec 2013
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+**Web Developer**
+> University of Toronto - Dec 2011 to Dec 2013
 
-### Small image
+* * *
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## Skills
 
-### Large image
+| Languages        | Proficiency       | YOE   |
+|:-------------|:------------------|:------|
+| Javascript   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 8  |
+| Typescript   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 5  |
+| MySQL         | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐          | 5 |
+| Java         | ⭐⭐⭐⭐⭐⭐⭐⭐         | 5  |
+| PHP          | ⭐⭐⭐⭐⭐⭐⭐⭐       | 5  |
+| Python       | ⭐⭐⭐⭐⭐⭐⭐⭐         | 5  |
+| MongoDB         | ⭐⭐⭐⭐⭐⭐⭐          | 3 |
+| Ruby         | ⭐⭐⭐⭐⭐⭐⭐          | 3 |
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+| Frameworks   | Proficiency       | YOE   |
+|:-------------|:------------------|:------|
+| Angular   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 8  |
+| React   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 3  |
+| Firebase         | ⭐⭐⭐⭐⭐⭐⭐⭐          | 3 |
+| Laravel          | ⭐⭐⭐⭐⭐⭐       | 3  |
+| Spring Boot         | ⭐⭐⭐⭐⭐⭐         | 3  |
+| Django       | ⭐⭐⭐⭐        | 3  |
+| Ruby on Rails         | ⭐⭐⭐          | 2 |
 
+| Cloud   | Proficiency       | YOE   |
+|:-------------|:------------------|:------|
+| Docker   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 5  |
+| Travis  | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 5  |
+| Jenkins          | ⭐⭐⭐⭐⭐⭐⭐⭐       | 3  |
+| CircleCI       | ⭐⭐⭐⭐⭐⭐⭐⭐        | 3  |
+| AWS       | ⭐⭐⭐⭐⭐⭐⭐⭐        | 3  |
+| GCP       | ⭐⭐⭐⭐⭐⭐        | 2  |
+| Kubernetes         | ⭐⭐⭐⭐⭐⭐          | 2 |
+| CloudFlare         | ⭐⭐⭐⭐⭐⭐          | 2 |
+| Akamai         | ⭐⭐⭐⭐⭐⭐          | 2 |
+| Cloudinary         | ⭐⭐⭐⭐⭐⭐          | 2 |
+| Github actions         | ⭐⭐⭐⭐         | 1  |
 
-### Definition lists can be used with HTML syntax.
+_updated on Oct 2020_
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* * *
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Education
 
-```
-The final element.
-```
+> Honhours Bachelor of Science - Computer Science
+>
+> University of Toronto - 2012
+
+* * *
+
+## Projects
+
+### Huawei Roma
+
+<video width="560" height="315" frameborader="0" allowfullscreen controls>
+<source src="http://e-file.huawei.com/mediafiles/Video_MCD/EBG/PUBLIC/en/2020/01/2421def8-962a-4336-a306-e781f5036432.mp4" type="video/mp4">
+</video>
+
+* * *
+
+### IBM Order Management Business User Control
+
+<iframe src="https://www.youtube.com/embed/mBJ-dUKfQxg"
+    width="560"
+    height="315"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
+* * *
+
+### IBM Commerce Insights
+
+<iframe src="https://www.youtube.com/embed/Rdau2npWuKY"
+    width="560"
+    height="315"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
+* * *
+
+### Crypturtle
+
+![Crypturtle](https://s3.amazonaws.com/ionic-marketplace/crypturtle/screenshot_6.jpg)
+
+* * *
+
+### Online Tutor
+
+![Online Tutor](https://user-images.githubusercontent.com/70731255/96349300-b266c200-107c-11eb-9c29-b1a43b5373e4.png)
+![Online Tutor](https://user-images.githubusercontent.com/70731255/96349302-b4c91c00-107c-11eb-8b2a-09fc3e9d5edf.png)
+![Online Tutor](https://user-images.githubusercontent.com/70731255/96349303-b4c91c00-107c-11eb-930b-5f97dc831ec5.png)
+
+* * *
+More to come
