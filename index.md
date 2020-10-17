@@ -80,7 +80,7 @@ _updated on Oct 2020_
 
 ### Huawei Roma
 
-<video width="560" height="315" frameborader="0" allowfullscreen controls>
+<video width="350" height="315" frameborader="0" allowfullscreen controls>
 <source src="http://e-file.huawei.com/mediafiles/Video_MCD/EBG/PUBLIC/en/2020/01/2421def8-962a-4336-a306-e781f5036432.mp4" type="video/mp4">
 </video>
 
@@ -89,7 +89,7 @@ _updated on Oct 2020_
 ### IBM Order Management Business User Control
 
 <iframe src="https://www.youtube.com/embed/mBJ-dUKfQxg"
-    width="560"
+    width="350"
     height="315"
     frameborder="0"
     allowfullscreen>
@@ -100,7 +100,7 @@ _updated on Oct 2020_
 ### IBM Commerce Insights
 
 <iframe src="https://www.youtube.com/embed/Rdau2npWuKY"
-    width="560"
+    width="350"
     height="315"
     frameborder="0"
     allowfullscreen>
