@@ -43,6 +43,7 @@ I have obtained sound knowledge of both technical and collaboration skills over 
 |:-------------|:------------------|:------|
 | Angular   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 8  |
 | React   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 3  |
+| Strapi   | ⭐⭐⭐⭐⭐⭐⭐⭐⭐       | 3  |
 | Firebase         | ⭐⭐⭐⭐⭐⭐⭐⭐          | 3 |
 | Laravel          | ⭐⭐⭐⭐⭐⭐       | 3  |
 | CodeIgniter          | ⭐⭐⭐⭐⭐⭐       | 3  |
