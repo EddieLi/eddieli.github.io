@@ -61,6 +61,7 @@ I have obtained sound knowledge of both technical and collaboration skills over 
 | CloudFlare         | ⭐⭐⭐⭐⭐⭐          | 2 |
 | Akamai         | ⭐⭐⭐⭐⭐⭐          | 2 |
 | Cloudinary         | ⭐⭐⭐⭐⭐⭐          | 2 |
+| Twillio&SendGrid         | ⭐⭐⭐⭐⭐⭐          | 2 |
 | Github actions         | ⭐⭐⭐⭐         | 1  |
 
 _updated on Oct 2020_
